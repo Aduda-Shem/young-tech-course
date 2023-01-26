@@ -1,0 +1,17 @@
+.about-content.card {
+  padding: 42px 10px;
+}
+.about-content.card .icon:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+}
+.about-content.card {
+  border-radius: 25px;
+}
+
+.about-content.card:hover {
+  box-shadow: 0px 0px 30px 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+     

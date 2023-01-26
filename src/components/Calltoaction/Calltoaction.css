@@ -1,0 +1,27 @@
+.call-to-action {
+    margin-top: -170px;
+    display: inline-block;
+    padding: 0;
+    box-shadow: 0px 0px 15px 5px rgb(9 9 9 / 20%);
+    background: #fff;
+    margin-right: 20px;
+    padding-top: 15px;
+    background: #45465e;
+    color: #fff;
+    padding: 46px;
+    border: rgb(228, 201, 162);
+    line-height: 25px;
+    border-radius: 25px;
+    background: linear-gradient(to right);
+      
+      
+}
+
+
+.call-to-action i {
+    font-size: 52px;
+    color: rgb(57, 104, 73);
+  }
+
+
+
