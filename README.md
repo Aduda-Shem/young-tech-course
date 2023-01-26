@@ -10,4 +10,3 @@ Start the development server:
 `npm start`
 
 The application should now be running on your local machine at http://localhost:3000.
-Run the application
