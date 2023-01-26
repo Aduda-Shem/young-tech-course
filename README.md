@@ -4,7 +4,7 @@ The project involved building an application that consumes data from https://jso
 
 ## 1.Screenshots
 ![vercel](https://user-images.githubusercontent.com/100862586/214921571-f11b4038-fa45-4c10-b1f0-c768bdb33150.png)
-![vercel2](https://user-images.githubusercontent.com/100862586/214921623-3d910175-ff2a-4914-add3-206bd51310a2.png)
+
 
 ## 2.Built With
 React and Node.js
