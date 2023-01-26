@@ -1,6 +1,6 @@
 # young-tech-course
 ## About the project
-The project involved buildin an application that consumes data from https://jsonplaceholder.typicode.com/
+The project involved building an application that consumes data from https://jsonplaceholder.typicode.com/
 
 ## 1.Screenshots
 ![vercel](https://user-images.githubusercontent.com/100862586/214921571-f11b4038-fa45-4c10-b1f0-c768bdb33150.png)
