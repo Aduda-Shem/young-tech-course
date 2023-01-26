@@ -8,9 +8,13 @@ The project involved building an application that consumes data from https://jso
 
 ## 2.Built With
 React and Node.js
+
 CSS and Bootstrap for styling
-JSONplaceholder 
+
+JSONplaceholder
+
 Chrome Web browser
+
 vercel for deployment
 
 ## 3.Pre-requisites
