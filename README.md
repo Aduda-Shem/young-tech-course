@@ -19,8 +19,11 @@ vercel for deployment
 
 ## 3.Pre-requisites
 A code editor.
+
 Chrome Web Browser.
+
 Have NodeJS installed locally.
+
 JavaScript development skills.
 
 ## Setup and Installation
